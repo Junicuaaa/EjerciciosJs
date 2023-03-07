@@ -1,4 +1,4 @@
 let cadena = "me gusta mucho campus"
-console.log(cadena.toUpperCase())
-/** Transforma el texto a mayuscula
+console.log(cadena.charAt(0))
+/** Devuelve el caracter que se encuentra en ese indice
  */
