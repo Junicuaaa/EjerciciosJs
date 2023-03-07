@@ -1,5 +1,5 @@
 let cadena = "me gusta mucho campus"
-console.log(cadena.replace("gusta", "encanta"))
-/** Recibe una coincidencia como parametro y la reemplaza por el segundo parametro que le demos,
- * si es una cadena de texto, solo se reempleza la PRIMERA coincidencia
+let cadena2 = cadena.substring(16,21)
+console.log(cadena2)
+/** Devuelve un subconjunto de un objeto String.
  */
