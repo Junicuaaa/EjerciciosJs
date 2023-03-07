@@ -1,3 +1,5 @@
 let cadena = "me gusta mucho campus"
-console.log(cadena.endsWith("c"))
-// Nos dice si la cadena finaliza con (x) caracter//
+console.log(cadena.replace("gusta", "encanta"))
+/** Recibe una coincidencia como parametro y la reemplaza por el segundo parametro que le demos,
+ * si es una cadena de texto, solo se reempleza la PRIMERA coincidencia
+ */
