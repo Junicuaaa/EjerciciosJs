@@ -1,5 +1,5 @@
 let cadena = "me gusta mucho campus"
-let cadena2 = cadena.substring(16,21)
-console.log(cadena2)
-/** Devuelve un subconjunto de un objeto String.
+console.log(cadena.repeat(2))
+/** El método repeat() construye y devuelve una nueva cadena que contiene el número especificado de
+copias de la cadena en la cual fue llamada, concatenados.
  */
