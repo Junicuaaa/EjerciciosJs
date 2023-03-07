@@ -1,3 +1,3 @@
 let cadena = "me gusta mucho campus"
-console.log(cadena.includes("c"))
-// Nos dice la cadena contiene (x) caracter//
+console.log(cadena.startsWith("c"))
+// Nos dice si la cadena comienza con (x) caracter//
