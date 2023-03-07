@@ -1,4 +1,4 @@
 let cadena = "me gusta mucho campus"
-console.log(cadena.toLowerCase())
-/** Transforma el texto a minuscula
+console.log(cadena.toUpperCase())
+/** Transforma el texto a mayuscula
  */
