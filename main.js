@@ -1,5 +1,5 @@
-let cadena = "me gusta "
-let cadena2 = "mucho campus"
-console.log(cadena.concat(cadena2));
-/** concatena los strings que se le pasen como parametro
+let cadena = "                me gusta mucho campus            "
+console.log(cadena.trim())
+/** elimina los espacios en blanco en ambos extremos del string. 
+ * Los espacios en blanco en este contexto, son todos los caracteres sin contenido (espacio, tabulación, etc.)
  */
