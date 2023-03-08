@@ -1,5 +1,4 @@
-let cadena = "                me gusta mucho campus            "
-console.log(cadena.trim())
-/** elimina los espacios en blanco en ambos extremos del string. 
- * Los espacios en blanco en este contexto, son todos los caracteres sin contenido (espacio, tabulación, etc.)
+console.log("Campus Land".indexOf("u"))
+/** devuelve el índice, dentro del objeto String que realiza la llamada, 
+ * de la primera ocurrencia del valor especificado, comenzando la búsqueda desde indiceDesde; o -1 si no se encuentra dicho valor.
  */
